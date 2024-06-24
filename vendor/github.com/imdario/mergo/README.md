@@ -220,3 +220,4 @@ Written by [Dario Castañé](http://dario.im).
 ## License
 
 [BSD 3-Clause](http://opensource.org/licenses/BSD-3-Clause) license, as [Go language](http://golang.org/LICENSE).
+Hello World

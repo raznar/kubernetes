@@ -11,4 +11,4 @@ It covers:
 
 ```
 go test -v k8s.io/client-go/examples/fake-client
-```
+```Hello World
