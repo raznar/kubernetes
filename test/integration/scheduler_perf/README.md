@@ -113,3 +113,4 @@ Integration testing uses the same `config/performance-config.yaml` as
 benchmarking. By default, workloads labeled as `integration-test` are executed
 as part of integration testing. `-test-scheduling-label-filter` can be used to
 change that.
+Hello World
