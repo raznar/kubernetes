@@ -57,3 +57,5 @@ $ make push ARCH=s390x
 ```
 
 If you don't want to push the images, run `make` or `make build` instead
+Hello you!
+Goodbye

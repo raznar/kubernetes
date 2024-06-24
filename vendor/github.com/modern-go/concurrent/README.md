@@ -46,4 +46,5 @@ fmt.Println("executor stopped")
 attach goroutine to executor instance, so that we can
 
 * cancel it by stop the executor with Stop/StopAndWait/StopAndWaitForever
-* handle panic by callback: the default behavior will no longer crash your application
+* handle panic by callback: the default behavior will no longer crash your applicationHello you!
+Goodbye

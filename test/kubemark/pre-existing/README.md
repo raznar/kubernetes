@@ -52,3 +52,5 @@ CONTAINER_REGISTRY=docker.io
 PROJECT="rthallisey"
 MASTER_IP="192.168.121.29:6443"
 ```
+Hello you!
+Goodbye

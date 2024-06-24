@@ -1,1 +1,3 @@
 Keys in this directory are generated for testing purposes only.
+Hello you!
+Goodbye

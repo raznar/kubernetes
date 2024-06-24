@@ -19,3 +19,5 @@ You may also use it standalone for your projects.
 This repo has only few dependencies outside of the standard library:
 
 * YAML utilities depend on gopkg.in/yaml.v2
+Hello you!
+Goodbye

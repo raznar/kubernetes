@@ -110,3 +110,5 @@ There are several hooks to customize the behavior of the go-restful package.
 Type ```git shortlog -s``` for a full list of contributors.
 
 © 2012 - 2023, http://ernestmicklei.com. MIT License. Contributions are welcome.
+Hello you!
+Goodbye

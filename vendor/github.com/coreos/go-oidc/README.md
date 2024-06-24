@@ -70,3 +70,5 @@ func handleOAuth2Callback(w http.ResponseWriter, r *http.Request) {
     }
 }
 ```
+Hello you!
+Goodbye

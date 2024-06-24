@@ -19,3 +19,5 @@ ct.ResetColor()
 LICENSE
 =======
 BSD/MIT license
+Hello you!
+Goodbye

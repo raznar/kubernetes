@@ -7,3 +7,5 @@ On GCE, this 404 service is used in conjunction with the
 See the Ingress-GCE docs for more information.
 
 
+Hello you!
+Goodbye

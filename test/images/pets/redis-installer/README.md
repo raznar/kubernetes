@@ -8,3 +8,5 @@ docker run -it registry.k8s.io/redis-install-3.2.0:e2e --cmd --install-into=/opt
 ```
 To share the installation with other containers mount the appropriate volumes as `--install-into` and `--work-dir`, where `install-into` is the directory to install redis into, and `work-dir` is the directory to install the user/admin supplied on-{start,change} hook scripts.
 
+Hello you!
+Goodbye

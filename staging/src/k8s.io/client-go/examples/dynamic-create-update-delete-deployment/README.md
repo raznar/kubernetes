@@ -91,3 +91,5 @@ cluster is v1.13 or higher in `kubectl version`:
 
 [1]: https://kubernetes.io/docs/user-guide/deployments/
 [2]: ../create-update-delete-deployment
+Hello you!
+Goodbye

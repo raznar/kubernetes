@@ -10,3 +10,5 @@ Inspired by https://github.com/rvykydal/dockerfile-iscsid
 
 block.tar.gz is a small ext2 filesystem created by `create_block.sh` (run as root!)
 
+Hello you!
+Goodbye

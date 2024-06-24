@@ -36,3 +36,5 @@ See [this document](https://github.com/kubernetes/community/tree/master/sig-cli)
 
 Participation in the Kubernetes community is governed by the [Kubernetes Code of Conduct](code-of-conduct.md).
 
+Hello you!
+Goodbye

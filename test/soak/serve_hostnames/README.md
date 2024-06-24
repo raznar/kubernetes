@@ -178,4 +178,5 @@ W0326 14:35:05.607199   12099 serve_hostnames.go:265] No response from pod serve
 I0326 14:35:05.607211   12099 serve_hostnames.go:269] Iteration 0 took 1.774856469s for 40 queries (22.54 QPS)
 I0326 14:35:05.607236   12099 serve_hostnames.go:182] Cleaning up pods
 I0326 14:35:05.797893   12099 serve_hostnames.go:130] Cleaning up service serve-hostnames-1631/server-hostnames
-```
+```Hello you!
+Goodbye

@@ -15,3 +15,5 @@ $ make all WHAT=node-perf/npb-ep
 $ cd $K8S_ROOT/test/images
 $ make all-push WHAT=node-perf/npb-ep
 ```
+Hello you!
+Goodbye

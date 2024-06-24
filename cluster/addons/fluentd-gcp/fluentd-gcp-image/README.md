@@ -2,3 +2,5 @@
 
 The image was moved to the
 [new location](https://github.com/kubernetes/contrib/tree/master/fluentd/fluentd-gcp-image).
+Hello you!
+Goodbye

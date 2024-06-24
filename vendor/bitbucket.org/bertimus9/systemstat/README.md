@@ -67,3 +67,5 @@ Licensed under the MIT License
 
 see file LICENSE
 
+Hello you!
+Goodbye

@@ -8,3 +8,5 @@ require review by sig-architecture.
 To update the list, run `hack/update-conformance-yaml.sh`
 
 Add the changed file to your PR, then send for review.
+Hello you!
+Goodbye
