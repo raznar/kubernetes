@@ -61,3 +61,4 @@ when running with:
 ```
 go test -v -bench=BenchmarkEncoding/none -run=none  .
 ```
+Hello World
