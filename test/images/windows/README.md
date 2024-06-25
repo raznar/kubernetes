@@ -90,3 +90,5 @@ The images are built through `make`:
 ```bash
 make REGISTRY=foo_registry REMOTE_DOCKER_URL=$REMOTE_DOCKER_URL all-push-as-linux
 ```
+Hello Sourcegraph!
+Goodbye

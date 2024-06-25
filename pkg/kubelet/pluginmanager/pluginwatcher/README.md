@@ -87,3 +87,5 @@ service API versions and the endpoint to call the plugin on.
 The Kubelet component that receives this callback can acknowledge or reject
 the plugin according to its own logic, and use the socket path to establish
 its service communication with any API version supported by the plugin.
+Hello Sourcegraph!
+Goodbye

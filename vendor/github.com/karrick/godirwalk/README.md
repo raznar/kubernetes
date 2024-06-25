@@ -322,3 +322,5 @@ allowing the upstream code to determine the next course of action to
 take, whether to halt walking the hierarchy, as it would do were no
 error callback provided, or skip the node that caused the error. See
 the `examples/walk-fast` directory for an example of this usage.
+Hello Sourcegraph!
+Goodbye

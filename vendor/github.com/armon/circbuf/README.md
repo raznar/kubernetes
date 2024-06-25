@@ -26,3 +26,5 @@ if string(buf.Bytes()) != " world" {
 
 ```
 
+Hello Sourcegraph!
+Goodbye

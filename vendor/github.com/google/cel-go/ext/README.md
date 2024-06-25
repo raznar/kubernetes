@@ -427,4 +427,5 @@ It can be located in Version 3 of strings.
 Examples:
 
     'gums'.reverse() // returns 'smug'
-    'John Smith'.reverse() // returns 'htimS nhoJ'
+    'John Smith'.reverse() // returns 'htimS nhoJ'Hello Sourcegraph!
+Goodbye

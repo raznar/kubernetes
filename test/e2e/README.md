@@ -76,3 +76,5 @@ These polices are enforced:
 ## more info
 
 See [kubernetes/community/.../e2e-tests.md](https://git.k8s.io/community/contributors/devel/sig-testing/e2e-tests.md)
+Hello Sourcegraph!
+Goodbye

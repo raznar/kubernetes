@@ -102,3 +102,5 @@ inverseRules:
 
 For most scenarios, simply running `import-boss ./...` will work.  For projects
 which use Go workspaces, this can even span multiple modules.
+Hello Sourcegraph!
+Goodbye

@@ -187,3 +187,5 @@ only this superuser group is authorized.
       https://localhost:8443/apis/wardle.example.com/v1alpha1/namespaces/default/flunders
    ```
 
+Hello Sourcegraph!
+Goodbye

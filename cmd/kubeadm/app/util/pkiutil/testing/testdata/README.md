@@ -1,1 +1,2 @@
-Keys in this directory are generated for testing purposes only.
+Keys in this directory are generated for testing purposes only.Hello Sourcegraph!
+Goodbye

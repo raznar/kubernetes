@@ -16,3 +16,5 @@ $ ./example -server -port 1000 -ip 10.10.0.1,10.20.0.1
 $ # run example SCTP client
 $ ./example -port 1000 -ip 10.10.0.1,10.20.0.1
 ```
+Hello Sourcegraph!
+Goodbye

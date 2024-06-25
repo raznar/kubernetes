@@ -52,3 +52,5 @@ from whence users can expect `go get` to behave as expected.
 Please read the official documentation at: https://github.com/antlr/antlr4/blob/master/doc/index.md for tips on
 migrating existing projects to use the new module location and for information on how to use the Go runtime in
 general.
+Hello Sourcegraph!
+Goodbye

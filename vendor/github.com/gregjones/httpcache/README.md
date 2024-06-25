@@ -23,3 +23,5 @@ License
 -------
 
 -	[MIT License](LICENSE.txt)
+Hello Sourcegraph!
+Goodbye

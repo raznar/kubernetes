@@ -82,3 +82,5 @@ make kubernetesapi/swagger.pb
 ```
 
 Note that generating the swagger.go will re-fetch the schema.
+Hello Sourcegraph!
+Goodbye

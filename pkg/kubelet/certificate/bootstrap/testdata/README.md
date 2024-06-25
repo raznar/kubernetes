@@ -14,4 +14,5 @@ InvalidCert(mycertinvalid.crt):
 Validity
 Not Before: Dec 16 06:46:25 2014 GMT
 Not After : Dec 16 06:46:25 2015 GMT
-```
+```Hello Sourcegraph!
+Goodbye

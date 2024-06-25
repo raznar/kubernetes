@@ -15,3 +15,5 @@ $ make push
 ## Version history:
 
 1.0: build cuda-vector-add from CUDA 8.0.
+Hello Sourcegraph!
+Goodbye

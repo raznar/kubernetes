@@ -135,3 +135,5 @@ pinned in the [benchmarks/go.mod][] file. [↩](#anchor-versions)
 [benchmarking suite]: https://github.com/uber-go/zap/tree/master/benchmarks
 [benchmarks/go.mod]: https://github.com/uber-go/zap/blob/master/benchmarks/go.mod
 
+Hello Sourcegraph!
+Goodbye

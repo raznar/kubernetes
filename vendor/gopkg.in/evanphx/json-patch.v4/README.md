@@ -315,3 +315,5 @@ go test -cover ./...
 
 Builds for pull requests are tested automatically 
 using [TravisCI](https://travis-ci.org/evanphx/json-patch).
+Hello Sourcegraph!
+Goodbye

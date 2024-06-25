@@ -116,3 +116,5 @@ Google, not here. The code in this repo is for export only and is not itself
 under development. Feature requests will be ignored.
 
 Send bug reports to golang-nuts@googlegroups.com.
+Hello Sourcegraph!
+Goodbye

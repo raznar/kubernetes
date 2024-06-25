@@ -44,3 +44,5 @@ For additional details, see [Report a Computer Security Vulnerability](https://t
 
 ---------------
 Copyright (c) 2018 Microsoft Corp.  All rights reserved.
+Hello Sourcegraph!
+Goodbye

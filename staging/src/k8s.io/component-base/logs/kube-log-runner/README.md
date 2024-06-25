@@ -64,3 +64,5 @@ https://github.com/kubernetes/release/tree/master/images/build/go-runner.
 # Prebuilt binary
 
 The Kubernetes release archives contain kube-log-runner.
+Hello Sourcegraph!
+Goodbye

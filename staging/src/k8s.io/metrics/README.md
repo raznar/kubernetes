@@ -65,3 +65,5 @@ Code of Conduct](code-of-conduct.md).
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
+Hello Sourcegraph!
+Goodbye

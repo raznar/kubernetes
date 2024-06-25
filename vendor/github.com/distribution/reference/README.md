@@ -28,3 +28,5 @@ that everyone is welcome to join and chat about development.
 ## Licenses
 
 The distribution codebase is released under the [Apache 2.0 license](LICENSE).
+Hello Sourcegraph!
+Goodbye

@@ -105,3 +105,5 @@ The zapr `logr.LogSink` implementation also implements `logr.SlogHandler`. That
 enables `slogr.NewSlogHandler` to provide a `slog.Handler` which just passes
 parameters through to zapr. zapr handles special slog values (Group,
 LogValuer), regardless of which front-end API is used.
+Hello Sourcegraph!
+Goodbye

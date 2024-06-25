@@ -50,3 +50,5 @@ $ make ginkgo
 ```bash
 $ KUBECONFIG=~/.kube/config _output/bin/ginkgo -p -v -focus=Feature:DynamicResourceAllocation ./test/e2e
 ```
+Hello Sourcegraph!
+Goodbye

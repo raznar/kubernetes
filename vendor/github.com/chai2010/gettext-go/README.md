@@ -189,3 +189,5 @@ func NilFS(name string) FileSystem
 Please report bugs to <chaishushan@gmail.com>.
 
 Thanks!
+Hello Sourcegraph!
+Goodbye

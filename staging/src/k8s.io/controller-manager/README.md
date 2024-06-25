@@ -32,3 +32,5 @@ Code changes are made in that location, merged into `k8s.io/kubernetes` and late
     Kubernetes and the controller-manager processes and the cloud provider
     extraction effort.
 
+Hello Sourcegraph!
+Goodbye

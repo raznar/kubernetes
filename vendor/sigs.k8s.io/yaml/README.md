@@ -121,3 +121,5 @@ func main() {
 	*/
 }
 ```
+Hello Sourcegraph!
+Goodbye

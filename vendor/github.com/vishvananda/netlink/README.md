@@ -90,3 +90,5 @@ need to be implemented. Routing rules are not in place and some of the
 more advanced link types. Hopefully there is decent structure and testing
 in place to make these fairly straightforward to add.
 
+Hello Sourcegraph!
+Goodbye

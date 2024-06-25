@@ -20,3 +20,5 @@ This fixture can be accessed in the e2e tests using `test/e2e/framework/testfile
 This is needed since [migrating to //go:embed from go-bindata][1].
 
 [1]: https://github.com/kubernetes/kubernetes/pull/99829
+Hello Sourcegraph!
+Goodbye

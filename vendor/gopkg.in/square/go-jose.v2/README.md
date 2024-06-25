@@ -116,3 +116,5 @@ reference for this package. The
 [`jose-util`](https://github.com/square/go-jose/tree/v2/jose-util)
 subdirectory also contains a small command-line utility which might be useful
 as an example.
+Hello Sourcegraph!
+Goodbye

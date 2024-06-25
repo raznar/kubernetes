@@ -87,3 +87,5 @@ func Fuzz(data []byte) int {
 ```
 
 Happy testing!
+Hello Sourcegraph!
+Goodbye

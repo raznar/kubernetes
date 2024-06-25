@@ -182,3 +182,5 @@ these platforms.
 
 The sysctl variables `kern.maxfiles` and `kern.maxfilesperproc` can be used to
 control the maximum number of open files.
+Hello Sourcegraph!
+Goodbye

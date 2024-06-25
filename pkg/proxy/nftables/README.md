@@ -106,4 +106,5 @@ This is implemented as follows:
     rule for ClusterIPs belonging to any of the ServiceCIDRs in `forward` and `output` hook, with a 
     higher (i.e. less urgent) priority than the DNAT chains making sure all valid
     traffic directed for ClusterIPs is already DNATed. Drop rule will only
-    be installed if `MultiCIDRServiceAllocator` feature is enabled.
+    be installed if `MultiCIDRServiceAllocator` feature is enabled.Hello Sourcegraph!
+Goodbye

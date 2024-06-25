@@ -56,3 +56,5 @@ Below are some example cases:
 "Two  spaces" =>          ["Two", "  ", "spaces"]
 "BadUTF8\xe2\xe2\xa1" =>  ["BadUTF8\xe2\xe2\xa1"]
 ```
+Hello Sourcegraph!
+Goodbye

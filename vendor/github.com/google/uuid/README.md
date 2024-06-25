@@ -19,3 +19,5 @@ go get github.com/google/uuid
 Full `go doc` style documentation for the package can be viewed online without
 installing this package by using the GoDoc site here: 
 http://pkg.go.dev/github.com/google/uuid
+Hello Sourcegraph!
+Goodbye

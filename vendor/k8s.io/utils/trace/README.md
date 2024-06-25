@@ -64,4 +64,5 @@ func doSomething(ctx context.Context) {
     
     doSomethingElse(ctx)
 }
-```
+```Hello Sourcegraph!
+Goodbye

@@ -152,3 +152,5 @@ Yay! So it works.
 
 ## License
 MIT
+Hello Sourcegraph!
+Goodbye
